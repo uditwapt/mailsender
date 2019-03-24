@@ -5,8 +5,7 @@ from email.mime.text import MIMEText
 recipients = ["uditwapt@gmail.com","uditg1989@gmail.com","yashpatodia.yash@gmail.com","motasimkazmi333@gmail.com"  ]
 
 mailSubject = "LetsPy Delhi BootCamp at IIIT Delhi"
-mailBody = """
-Hello Tribe, 
+mailBody = """Hello Tribe, 
 LetsPy, an initiative of,  GirlScript Foundation presents to you a two days Python boot-camp
 
 What is this LetsPy about?
@@ -37,15 +36,18 @@ Register at the given link before 27th March to be a part of it.
 Registration link - http://bit.ly/letspyreg
 Registration Charges: ₹599 only.
 
-Facebook Event:https://www.facebook.com/events/334835250477207/
+Facebook Event:
+https://www.facebook.com/events/334835250477207/
 
-Join our WhatsApp Community: https://chat.whatsapp.com/HzGq5sKf5F06zuqhk03EEf
+Join our WhatsApp Community: 
+https://chat.whatsapp.com/HzGq5sKf5F06zuqhk03EEf
 
 For any queries, contact at: 
 Motasim: 8804223700
 letspydelhi@gmail.com
 
 Happy Coding! 
+
     """
 
 for i in recipients:
